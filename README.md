@@ -1,0 +1,1 @@
+An extended version of the TGI+ classifier, created as part of a master thesis.
